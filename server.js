@@ -1,17 +1,19 @@
+require('dotenv').config();
+
 const { Pool } = require('pg');
 const fs = require('fs');
 const path = require('path');
 
+
 const pool = new Pool({
-  user: 'postgres',
-  host: 'localhost',
-  database: 'REM',
-  password: 'Federica1234',
-  port: 5432,
+  connectionString: 'postgresql://rem_8x5a_user:ofkZ5quphiTEbzop37iOosebMllfAUJ1@dpg-d1a7g9je5dus73eb6sa0-a.oregon-postgres.render.com/rem_8x5a', // setezi variabila în Render Dashboard
+  ssl: {
+    rejectUnauthorized: false
+  }
 });
 
 const http = require('http');
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 const server = http.createServer((req, res) => {
   // CORS
