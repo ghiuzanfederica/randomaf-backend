@@ -40,6 +40,6 @@ const server = http.createServer((req, res) => {
     }
 });
 
-server.listen(port, hostname, () => {
+server.listen(port, () => {
   console.log(`Serverul rulează pe http://${hostname}:${port}`);
 });
