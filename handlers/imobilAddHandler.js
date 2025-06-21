@@ -1,5 +1,4 @@
 async function handleImobilAdd(req, res) {
-    console.log('Body primit:', data);
     const pool = require('../config/database');
 
     let body = '';
