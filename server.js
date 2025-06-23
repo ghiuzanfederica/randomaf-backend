@@ -19,7 +19,7 @@ const server = http.createServer((req, res) => {
     
     // CORS
     const allowedOrigins = [
-        'https://ghiuzanfederica.github.io/randomaf-frontend',
+        'https://ghiuzanfederica.github.io/randomaf-frontend/',
     ];
     const origin = req.headers.origin;
     if (allowedOrigins.includes(origin)) {
