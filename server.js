@@ -18,7 +18,7 @@ const server = http.createServer((req, res) => {
     console.log('Cerere primita:', req.method, req.url);
     
     // CORS
-    res.setHeader('Access-Control-Allow-Origin', 'https://ghiuzanfederica.github.io/randomaf-frontend/');
+    res.setHeader('Access-Control-Allow-Origin', 'https://randomaf-backend.onrender.com');
     res.setHeader('Access-Control-Allow-Credentials', 'true');
     res.setHeader('Access-Control-Allow-Methods', 'POST, GET, OPTIONS');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Cookie');
