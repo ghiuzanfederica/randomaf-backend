@@ -11,7 +11,6 @@ const { handleSignIn }      = require('./handlers/signInHandler');
 const { handleLikeToggle, handleGetFavorites }  = require('./handlers/likesHandler');
 const { handleGetCurrentUser, handleLogout }    = require('./handlers/getCurrentUserHandler');
 
-const hostname              = process.env.HOST || 'localhost';
 const port                  = process.env.PORT || 3001;
 
 const server = http.createServer((req, res) => {
@@ -69,6 +68,6 @@ const server = http.createServer((req, res) => {
     }
 });
 
-server.listen(port, hostname, () => {
-  console.log(`Serverul ruleaza pe http://:${hostname}:${port}`);
+server.listen(port, () => {
+  console.log(`Serverul ruleaza pe http://:${port}`);
 });
