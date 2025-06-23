@@ -19,8 +19,7 @@ const server = http.createServer((req, res) => {
     
     // CORS
     const allowedOrigins = [
-        'https://ghiuzanfederica.github.io',
-        'http://localhost'
+        'https://ghiuzanfederica.github.io'
     ];
     const origin = req.headers.origin;
     if (allowedOrigins.includes(origin)) {
