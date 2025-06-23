@@ -1,0 +1,1334 @@
+{
+  "alba-iulia/Centru": {
+    "lat": "46.0685476",
+    "lon": "23.5805816"
+  },
+  "alba-iulia/Partos": {
+    "lat": "46.0440885",
+    "lon": "23.5649174"
+  },
+  "alba-iulia/Ampoi": {
+    "lat": "46.0846812",
+    "lon": "23.5880314"
+  },
+  "alba-iulia/Cetate": {
+    "lat": "46.0710864",
+    "lon": "23.5573000"
+  },
+  "alba-iulia/Tolstoi": {
+    "lat": "46.0768369",
+    "lon": "23.5744097"
+  },
+  "alba-iulia/Barabant": {
+    "lat": "46.0993043",
+    "lon": "23.5848680"
+  },
+  "alba-iulia/Micesti": {
+    "lat": "46.1013257",
+    "lon": "23.5557314"
+  },
+  "alba-iulia/Oarda": {
+    "lat": "46.0323170",
+    "lon": "23.5679394"
+  },
+  "arad/Centru": {
+    "lat": "46.1739360",
+    "lon": "21.3152143"
+  },
+  "arad/Aurel Vlaicu": {
+    "lat": "46.2013524",
+    "lon": "21.2913618"
+  },
+  "arad/Gradiste": {
+    "lat": "46.1956548",
+    "lon": "21.3355053"
+  },
+  "arad/Micalaca": {
+    "lat": "46.1735594",
+    "lon": "21.3570487"
+  },
+  "arad/Gai": {
+    "lat": "46.2107070",
+    "lon": "21.2766611"
+  },
+  "arad/Bujac": {
+    "lat": "46.1940266",
+    "lon": "21.2821851"
+  },
+  "arad/Sannicolau Mic": {
+    "lat": "46.1739360",
+    "lon": "21.3152143"
+  },
+  "arad/Vladimirescu": {
+    "lat": "46.1638285",
+    "lon": "21.4063807"
+  },
+  "bacau/Centru": {
+    "lat": "46.4956568",
+    "lon": "26.9296455"
+  },
+  "bacau/Nord": {
+    "lat": "46.4956568",
+    "lon": "26.9296455"
+  },
+  "bacau/Sud": {
+    "lat": "46.4956568",
+    "lon": "26.9296455"
+  },
+  "bacau/Serbanesti": {
+    "lat": "46.5816324",
+    "lon": "26.9289167"
+  },
+  "bacau/Gheraiesti": {
+    "lat": "46.5984143",
+    "lon": "26.9020496"
+  },
+  "bacau/Izvoare": {
+    "lat": "46.5552172",
+    "lon": "26.9242945"
+  },
+  "bacau/Letea": {
+    "lat": "46.5064022",
+    "lon": "26.9395496"
+  },
+  "bacau/Mioritei": {
+    "lat": "46.5699557",
+    "lon": "26.8951152"
+  },
+  "baia-mare/Centru": {
+    "lat": "47.7565814",
+    "lon": "23.6056024"
+  },
+  "baia-mare/Valea Rosie": {
+    "lat": "47.6714306",
+    "lon": "23.5627282"
+  },
+  "baia-mare/Vasile Alecsandri": {
+    "lat": "47.6464275",
+    "lon": "23.5819921"
+  },
+  "baia-mare/Sasar": {
+    "lat": "47.6627684",
+    "lon": "23.5854468"
+  },
+  "baia-mare/Ferneziu": {
+    "lat": "47.6941509",
+    "lon": "23.6286534"
+  },
+  "baia-mare/Grivitei": {
+    "lat": "47.6654624",
+    "lon": "23.5918593"
+  },
+  "baia-mare/Gara": {
+    "lat": "47.6472386",
+    "lon": "23.5525439"
+  },
+  "baia-mare/Recea": {
+    "lat": "47.7565814",
+    "lon": "23.6056024"
+  },
+  "bistrita/Centru": {
+    "lat": "46.9500347",
+    "lon": "24.6919079"
+  },
+  "bistrita/Unirea": {
+    "lat": "47.1609671",
+    "lon": "24.5286344"
+  },
+  "bistrita/Subcetate": {
+    "lat": "47.1572405",
+    "lon": "24.4809444"
+  },
+  "bistrita/Viisoara": {
+    "lat": "47.1024977",
+    "lon": "24.4477178"
+  },
+  "bistrita/Sigmir": {
+    "lat": "47.1341390",
+    "lon": "24.4256736"
+  },
+  "bistrita/Slatinita": {
+    "lat": "47.2042681",
+    "lon": "24.5270558"
+  },
+  "bistrita/Ghinda": {
+    "lat": "47.1353453",
+    "lon": "24.5737118"
+  },
+  "botosani/Centru": {
+    "lat": "47.9377438",
+    "lon": "26.1593979"
+  },
+  "botosani/Parcul Tineretului": {
+    "lat": "47.7500151",
+    "lon": "26.6711378"
+  },
+  "botosani/Catamarasti": {
+    "lat": "47.7920090",
+    "lon": "26.6209911"
+  },
+  "botosani/Pacea": {
+    "lat": "47.7396366",
+    "lon": "26.6451130"
+  },
+  "botosani/Tudora": {
+    "lat": "47.5074742",
+    "lon": "26.6345914"
+  },
+  "botosani/Curtesti": {
+    "lat": "47.7169501",
+    "lon": "26.6474635"
+  },
+  "braila/Centru": {
+    "lat": "45.2715813",
+    "lon": "27.9746436"
+  },
+  "braila/Viziru": {
+    "lat": "45.0018695",
+    "lon": "27.7129854"
+  },
+  "braila/Hipodrom": {
+    "lat": "45.2601292",
+    "lon": "27.9560405"
+  },
+  "braila/Chercea": {
+    "lat": "45.2793954",
+    "lon": "27.9462873"
+  },
+  "braila/Obor": {
+    "lat": "45.2675785",
+    "lon": "27.9539720"
+  },
+  "braila/Radu Negru": {
+    "lat": "45.2434713",
+    "lon": "27.9418475"
+  },
+  "braila/Lacu Dulce": {
+    "lat": "45.2674814",
+    "lon": "27.9440386"
+  },
+  "brasov/Centru": {
+    "lat": "45.8433742",
+    "lon": "24.9718996"
+  },
+  "brasov/Tractorul": {
+    "lat": "45.6722705",
+    "lon": "25.6008043"
+  },
+  "brasov/Racadau": {
+    "lat": "45.6039217",
+    "lon": "25.6011744"
+  },
+  "brasov/Bartolomeu": {
+    "lat": "45.6625657",
+    "lon": "25.5745694"
+  },
+  "brasov/Noua": {
+    "lat": "45.6200123",
+    "lon": "25.6341110"
+  },
+  "brasov/Astra": {
+    "lat": "45.6399695",
+    "lon": "25.6273973"
+  },
+  "brasov/Schei": {
+    "lat": "45.6305748",
+    "lon": "25.5727126"
+  },
+  "brasov/Stupini": {
+    "lat": "45.6984197",
+    "lon": "25.5583685"
+  },
+  "bucuresti/Sector 1": {
+    "lat": "44.4879451",
+    "lon": "26.0501550"
+  },
+  "bucuresti/Sector 2": {
+    "lat": "44.4595849",
+    "lon": "26.1303450"
+  },
+  "bucuresti/Sector 3": {
+    "lat": "44.4182836",
+    "lon": "26.1650992"
+  },
+  "bucuresti/Sector 4": {
+    "lat": "44.3819025",
+    "lon": "26.1190178"
+  },
+  "bucuresti/Sector 5": {
+    "lat": "44.4049060",
+    "lon": "26.0718655"
+  },
+  "bucuresti/Sector 6": {
+    "lat": "44.4478746",
+    "lon": "26.0324476"
+  },
+  "bucuresti/Baneasa": {
+    "lat": "44.4945018",
+    "lon": "26.0786696"
+  },
+  "bucuresti/Aviatorilor": {
+    "lat": "44.4660312",
+    "lon": "26.0866420"
+  },
+  "bucuresti/Cotroceni": {
+    "lat": "44.4311178",
+    "lon": "26.0708103"
+  },
+  "bucuresti/Drumul Taberei": {
+    "lat": "44.4198100",
+    "lon": "26.0283834"
+  },
+  "bucuresti/Militari": {
+    "lat": "44.4349654",
+    "lon": "26.0206228"
+  },
+  "bucuresti/Titan": {
+    "lat": "44.4257917",
+    "lon": "26.1627220"
+  },
+  "bucuresti/Berceni": {
+    "lat": "44.3886959",
+    "lon": "26.1180036"
+  },
+  "bucuresti/Colentina": {
+    "lat": "44.4676744",
+    "lon": "26.1422559"
+  },
+  "buzau/Centru": {
+    "lat": "45.3672668",
+    "lon": "27.0899920"
+  },
+  "buzau/Micro 14": {
+    "lat": "45.1568120",
+    "lon": "26.7915751"
+  },
+  "buzau/Micro 5": {
+    "lat": "45.1466509",
+    "lon": "26.8378360"
+  },
+  "buzau/Dorobanti": {
+    "lat": "45.1525731",
+    "lon": "26.8433171"
+  },
+  "buzau/Balcescu": {
+    "lat": "45.1480753",
+    "lon": "26.8070685"
+  },
+  "buzau/Simileasca": {
+    "lat": "45.1671901",
+    "lon": "26.7802862"
+  },
+  "buzau/Brosteni": {
+    "lat": "45.1544768",
+    "lon": "26.8304164"
+  },
+  "calafat/Centru": {
+    "lat": "44.0053156",
+    "lon": "23.0054960"
+  },
+  "calafat/Basarabi": {
+    "lat": "44.0053156",
+    "lon": "23.0054960"
+  },
+  "calafat/Ciupercenii Vechi": {
+    "lat": "43.9451224",
+    "lon": "22.8946867"
+  },
+  "calafat/Golenti": {
+    "lat": "44.0129038",
+    "lon": "23.0566601"
+  },
+  "calarasi/Centru": {
+    "lat": "44.2061823",
+    "lon": "27.3217173"
+  },
+  "calarasi/Mircea Voda": {
+    "lat": "44.2131335",
+    "lon": "27.3042682"
+  },
+  "calarasi/Oborul Nou": {
+    "lat": "44.2061823",
+    "lon": "27.3217173"
+  },
+  "calarasi/Magureni": {
+    "lat": "44.4130786",
+    "lon": "26.6195614"
+  },
+  "calarasi/Dumbrava": {
+    "lat": "44.1919123",
+    "lon": "27.3246541"
+  },
+  "calarasi/Ostroveni": {
+    "lat": "44.2061823",
+    "lon": "27.3217173"
+  },
+  "campina/Centru": {
+    "lat": "45.1440370",
+    "lon": "25.7268174"
+  },
+  "campina/Slobozia": {
+    "lat": "45.1440370",
+    "lon": "25.7268174"
+  },
+  "campina/Voila": {
+    "lat": "45.1501946",
+    "lon": "25.7500004"
+  },
+  "campina/Campinita": {
+    "lat": "45.1452132",
+    "lon": "25.7192142"
+  },
+  "campina/Turnatorie": {
+    "lat": "45.1440370",
+    "lon": "25.7268174"
+  },
+  "campulung/Centru": {
+    "lat": "45.2855051",
+    "lon": "25.0465184"
+  },
+  "campulung/Grui": {
+    "lat": "45.2855051",
+    "lon": "25.0465184"
+  },
+  "campulung/Visoi": {
+    "lat": "45.2763859",
+    "lon": "25.0570292"
+  },
+  "campulung/Valea Romanestilor": {
+    "lat": "45.2855051",
+    "lon": "25.0465184"
+  },
+  "campulung/Schei": {
+    "lat": "45.2832988",
+    "lon": "25.0538672"
+  },
+  "cluj-napoca/Centru": {
+    "lat": "46.7687648",
+    "lon": "23.5900905"
+  },
+  "cluj-napoca/Manastur": {
+    "lat": "46.7554185",
+    "lon": "23.5565892"
+  },
+  "cluj-napoca/Gheorgheni": {
+    "lat": "46.7663539",
+    "lon": "23.6168223"
+  },
+  "cluj-napoca/Grigorescu": {
+    "lat": "46.7680429",
+    "lon": "23.5535428"
+  },
+  "cluj-napoca/Zorilor": {
+    "lat": "46.7555595",
+    "lon": "23.5857936"
+  },
+  "cluj-napoca/Buna Ziua": {
+    "lat": "46.7498055",
+    "lon": "23.5984619"
+  },
+  "cluj-napoca/Iris": {
+    "lat": "46.7951071",
+    "lon": "23.6035121"
+  },
+  "cluj-napoca/Someseni": {
+    "lat": "46.7887913",
+    "lon": "23.6509822"
+  },
+  "constanta/Centru": {
+    "lat": "44.0664922",
+    "lon": "28.2302152"
+  },
+  "constanta/Tomis Nord": {
+    "lat": "44.2075763",
+    "lon": "28.6241023"
+  },
+  "constanta/Tomis III": {
+    "lat": "44.1999008",
+    "lon": "28.6303544"
+  },
+  "constanta/Faleza Nord": {
+    "lat": "44.2033491",
+    "lon": "28.6486027"
+  },
+  "constanta/Inel II": {
+    "lat": "44.1767737",
+    "lon": "28.6158897"
+  },
+  "constanta/Palas": {
+    "lat": "44.1652593",
+    "lon": "28.5838971"
+  },
+  "constanta/Coiciu": {
+    "lat": "44.1829180",
+    "lon": "28.6228097"
+  },
+  "constanta/Km 4-5": {
+    "lat": "44.1481714",
+    "lon": "28.6219165"
+  },
+  "craiova/Centru": {
+    "lat": "44.3211767",
+    "lon": "23.7943772"
+  },
+  "craiova/Rovine": {
+    "lat": "44.3225370",
+    "lon": "23.8209541"
+  },
+  "craiova/Brazda lui Novac": {
+    "lat": "44.3302359",
+    "lon": "23.8009174"
+  },
+  "craiova/Lapus": {
+    "lat": "44.3151117",
+    "lon": "23.8353679"
+  },
+  "craiova/Valea Rosie": {
+    "lat": "44.3056654",
+    "lon": "23.8178492"
+  },
+  "craiova/Craiovita Noua": {
+    "lat": "44.3362245",
+    "lon": "23.7764576"
+  },
+  "craiova/Bariera Valcii": {
+    "lat": "44.3357179",
+    "lon": "23.8244637"
+  },
+  "deva/Centru": {
+    "lat": "45.8765212",
+    "lon": "22.9066283"
+  },
+  "deva/Micro 15": {
+    "lat": "45.8630824",
+    "lon": "22.9068156"
+  },
+  "deva/Micro 16": {
+    "lat": "45.8765212",
+    "lon": "22.9066283"
+  },
+  "deva/Micro 4": {
+    "lat": "45.8765212",
+    "lon": "22.9066283"
+  },
+  "deva/Micro 5": {
+    "lat": "45.8765212",
+    "lon": "22.9066283"
+  },
+  "deva/Aurel Vlaicu": {
+    "lat": "45.8812604",
+    "lon": "22.8898113"
+  },
+  "deva/Grigorescu": {
+    "lat": "45.8847327",
+    "lon": "22.9124788"
+  },
+  "drobeta-turnu-severin/Centru": {
+    "lat": "44.6455570",
+    "lon": "22.6528042"
+  },
+  "drobeta-turnu-severin/Crihala": {
+    "lat": "44.6455570",
+    "lon": "22.6528042"
+  },
+  "drobeta-turnu-severin/Schela": {
+    "lat": "44.6265648",
+    "lon": "22.6092651"
+  },
+  "drobeta-turnu-severin/Gura Vaii": {
+    "lat": "44.6673203",
+    "lon": "22.5564574"
+  },
+  "drobeta-turnu-severin/Dudasu": {
+    "lat": "44.6412791",
+    "lon": "22.5960132"
+  },
+  "drobeta-turnu-severin/Banovita": {
+    "lat": "44.6363475",
+    "lon": "22.6928196"
+  },
+  "focsani/Centru": {
+    "lat": "45.6977013",
+    "lon": "27.1832971"
+  },
+  "focsani/Sud": {
+    "lat": "45.6977013",
+    "lon": "27.1832971"
+  },
+  "focsani/Nord": {
+    "lat": "45.6977013",
+    "lon": "27.1832971"
+  },
+  "focsani/Obor": {
+    "lat": "45.7102788",
+    "lon": "27.1834322"
+  },
+  "focsani/Bahne": {
+    "lat": "45.6938525",
+    "lon": "27.1941963"
+  },
+  "focsani/Gara": {
+    "lat": "45.7009928",
+    "lon": "27.1716622"
+  },
+  "focsani/Mandresti": {
+    "lat": "45.6885805",
+    "lon": "27.2559873"
+  },
+  "galati/Centru": {
+    "lat": "45.4342165",
+    "lon": "28.0539635"
+  },
+  "galati/Mazepa": {
+    "lat": "45.4305181",
+    "lon": "28.0462169"
+  },
+  "galati/Micro 19": {
+    "lat": "45.4154673",
+    "lon": "28.0165409"
+  },
+  "galati/Micro 21": {
+    "lat": "45.4101858",
+    "lon": "28.0176406"
+  },
+  "galati/Micro 40": {
+    "lat": "45.4498837",
+    "lon": "28.0255999"
+  },
+  "galati/Tiglina": {
+    "lat": "45.4213023",
+    "lon": "28.0252149"
+  },
+  "galati/Dunarea": {
+    "lat": "45.4386554",
+    "lon": "28.0556660"
+  },
+  "giurgiu/Centru": {
+    "lat": "43.9078193",
+    "lon": "25.9738266"
+  },
+  "giurgiu/Tineretului": {
+    "lat": "43.9078193",
+    "lon": "25.9738266"
+  },
+  "giurgiu/Smarda": {
+    "lat": "43.8974389",
+    "lon": "25.9778119"
+  },
+  "giurgiu/Oinacu": {
+    "lat": "43.9564917",
+    "lon": "26.0152735"
+  },
+  "giurgiu/Steaua Dunarii": {
+    "lat": "43.8995570",
+    "lon": "25.9799963"
+  },
+  "iasi/Centru": {
+    "lat": "47.1621622",
+    "lon": "27.5885797"
+  },
+  "iasi/Copou": {
+    "lat": "47.1904883",
+    "lon": "27.5593798"
+  },
+  "iasi/Tatarasi": {
+    "lat": "47.1637142",
+    "lon": "27.6047884"
+  },
+  "iasi/Nicolina": {
+    "lat": "47.1488579",
+    "lon": "27.5776323"
+  },
+  "iasi/Pacurari": {
+    "lat": "47.1740452",
+    "lon": "27.5578839"
+  },
+  "iasi/CUG": {
+    "lat": "47.1331163",
+    "lon": "27.5718748"
+  },
+  "iasi/Galata": {
+    "lat": "47.1455713",
+    "lon": "27.5692423"
+  },
+  "iasi/Dacia": {
+    "lat": "47.1681925",
+    "lon": "27.5414681"
+  },
+  "medias/Centru": {
+    "lat": "46.1686138",
+    "lon": "24.3370040"
+  },
+  "medias/Gura Campului": {
+    "lat": "46.1686138",
+    "lon": "24.3370040"
+  },
+  "medias/Vitrometan": {
+    "lat": "46.1686138",
+    "lon": "24.3370040"
+  },
+  "medias/Dupa Zid": {
+    "lat": "46.1680327",
+    "lon": "24.3535157"
+  },
+  "medias/Mosnei": {
+    "lat": "46.1403062",
+    "lon": "24.3674801"
+  },
+  "miercurea-ciuc/Centru": {
+    "lat": "46.3583948",
+    "lon": "25.8022445"
+  },
+  "miercurea-ciuc/Szecseny": {
+    "lat": "46.3435512",
+    "lon": "25.7668802"
+  },
+  "miercurea-ciuc/Spicului": {
+    "lat": "46.3644444",
+    "lon": "25.8096968"
+  },
+  "miercurea-ciuc/Nagymezo": {
+    "lat": "46.3804366",
+    "lon": "25.8149865"
+  },
+  "miercurea-ciuc/Harghita": {
+    "lat": "46.3856326",
+    "lon": "25.6365968"
+  },
+  "oradea/Centru": {
+    "lat": "47.0179175",
+    "lon": "21.8580837"
+  },
+  "oradea/Rogerius": {
+    "lat": "47.0776592",
+    "lon": "21.9164294"
+  },
+  "oradea/Nufarul": {
+    "lat": "47.0324887",
+    "lon": "21.9570118"
+  },
+  "oradea/Iosia": {
+    "lat": "47.0575778",
+    "lon": "21.9022311"
+  },
+  "oradea/Velenta": {
+    "lat": "47.0494182",
+    "lon": "21.9498705"
+  },
+  "oradea/Oncea": {
+    "lat": "47.0909680",
+    "lon": "21.9189239"
+  },
+  "oradea/Episcopia": {
+    "lat": "47.0995970",
+    "lon": "21.8763505"
+  },
+  "petrosani/Centru": {
+    "lat": "45.4378660",
+    "lon": "23.3771964"
+  },
+  "petrosani/Aeroport": {
+    "lat": "45.3914592",
+    "lon": "23.3733050"
+  },
+  "petrosani/Colonie": {
+    "lat": "45.4198346",
+    "lon": "23.3627669"
+  },
+  "petrosani/Dalja": {
+    "lat": "45.4139299",
+    "lon": "23.3400403"
+  },
+  "petrosani/Sasa": {
+    "lat": "45.3713724",
+    "lon": "23.3702784"
+  },
+  "petrosani/Livezeni": {
+    "lat": "45.3777276",
+    "lon": "23.3671649"
+  },
+  "piatra-neamt/Centru": {
+    "lat": "46.9263912",
+    "lon": "26.3738144"
+  },
+  "piatra-neamt/Darmanesti": {
+    "lat": "46.9322726",
+    "lon": "26.3906225"
+  },
+  "piatra-neamt/Precista": {
+    "lat": "46.9333868",
+    "lon": "26.3604067"
+  },
+  "piatra-neamt/Maratei": {
+    "lat": "46.9219241",
+    "lon": "26.3826740"
+  },
+  "piatra-neamt/Valeni": {
+    "lat": "46.9037405",
+    "lon": "26.3894373"
+  },
+  "piatra-neamt/Ciritei": {
+    "lat": "46.9319028",
+    "lon": "26.4088437"
+  },
+  "pitesti/Centru": {
+    "lat": "44.8484129",
+    "lon": "24.8539868"
+  },
+  "pitesti/Trivale": {
+    "lat": "44.8486812",
+    "lon": "24.8435050"
+  },
+  "pitesti/Gavana": {
+    "lat": "44.8717542",
+    "lon": "24.8456557"
+  },
+  "pitesti/Prundu": {
+    "lat": "44.8309467",
+    "lon": "24.9086687"
+  },
+  "pitesti/Razboieni": {
+    "lat": "44.8434564",
+    "lon": "24.8729849"
+  },
+  "pitesti/Eremia Grigorescu": {
+    "lat": "44.8655658",
+    "lon": "24.8678151"
+  },
+  "ploiesti/Centru": {
+    "lat": "44.9420331",
+    "lon": "26.0230725"
+  },
+  "ploiesti/Nord": {
+    "lat": "44.9572878",
+    "lon": "26.0025860"
+  },
+  "ploiesti/Sud": {
+    "lat": "44.9235352",
+    "lon": "26.0356862"
+  },
+  "ploiesti/Vest": {
+    "lat": "44.9246076",
+    "lon": "25.9947675"
+  },
+  "ploiesti/Malul Rosu": {
+    "lat": "44.9420331",
+    "lon": "26.0230725"
+  },
+  "ploiesti/Bariera Bucuresti": {
+    "lat": "44.9211640",
+    "lon": "26.0324306"
+  },
+  "ploiesti/Mimiu": {
+    "lat": "44.9156434",
+    "lon": "26.0210567"
+  },
+  "ramnicu-valcea/Centru": {
+    "lat": "45.1048071",
+    "lon": "24.3668676"
+  },
+  "ramnicu-valcea/Nord": {
+    "lat": "45.1162035",
+    "lon": "24.3679475"
+  },
+  "ramnicu-valcea/Ostroveni": {
+    "lat": "45.0924317",
+    "lon": "24.3713663"
+  },
+  "ramnicu-valcea/Traian": {
+    "lat": "45.1096415",
+    "lon": "24.3704143"
+  },
+  "ramnicu-valcea/Petrisor": {
+    "lat": "45.0972184",
+    "lon": "24.3554018"
+  },
+  "ramnicu-valcea/Cazanesti": {
+    "lat": "45.0576727",
+    "lon": "24.2851215"
+  },
+  "ramnicu-sarat/Centru": {
+    "lat": "45.3672668",
+    "lon": "27.0899920"
+  },
+  "ramnicu-sarat/Anghel Saligny": {
+    "lat": "45.3880290",
+    "lon": "27.0633949"
+  },
+  "ramnicu-sarat/Podgoria": {
+    "lat": "45.4137267",
+    "lon": "27.0300248"
+  },
+  "ramnicu-sarat/Bariera Focsani": {
+    "lat": "45.4030140",
+    "lon": "27.0498894"
+  },
+  "reghin/Centru": {
+    "lat": "46.7523127",
+    "lon": "24.6927549"
+  },
+  "reghin/Apalina": {
+    "lat": "46.7523127",
+    "lon": "24.6927549"
+  },
+  "reghin/Iernuteni": {
+    "lat": "46.7638665",
+    "lon": "24.7191914"
+  },
+  "reghin/Dedrad": {
+    "lat": "46.7523127",
+    "lon": "24.6927549"
+  },
+  "reghin/Breaza": {
+    "lat": "46.7523127",
+    "lon": "24.6927549"
+  },
+  "resita/Centru": {
+    "lat": "45.3282552",
+    "lon": "21.8730960"
+  },
+  "resita/Govandari": {
+    "lat": "45.3282552",
+    "lon": "21.8730960"
+  },
+  "resita/Lunca Barzavei": {
+    "lat": "45.3282552",
+    "lon": "21.8730960"
+  },
+  "resita/Muncitoresc": {
+    "lat": "45.2957498",
+    "lon": "21.9127826"
+  },
+  "resita/Dealul Crucii": {
+    "lat": "45.2986675",
+    "lon": "21.8983629"
+  },
+  "roman/Centru": {
+    "lat": "45.7152518",
+    "lon": "21.1248475"
+  },
+  "roman/Favorit": {
+    "lat": "45.7152518",
+    "lon": "21.1248475"
+  },
+  "roman/Petru Rares": {
+    "lat": "46.9243547",
+    "lon": "26.9165195"
+  },
+  "roman/Mihai Viteazu": {
+    "lat": "45.7152518",
+    "lon": "21.1248475"
+  },
+  "roman/Nicolae Balcescu": {
+    "lat": "46.9272023",
+    "lon": "26.9104020"
+  },
+  "rosiorii-de-vede/Centru": {
+    "lat": "44.1233667",
+    "lon": "24.9788917"
+  },
+  "rosiorii-de-vede/Spitalului": {
+    "lat": "44.1233667",
+    "lon": "24.9788917"
+  },
+  "rosiorii-de-vede/Nord": {
+    "lat": "44.1233667",
+    "lon": "24.9788917"
+  },
+  "rosiorii-de-vede/Sud": {
+    "lat": "44.1233667",
+    "lon": "24.9788917"
+  },
+  "rosiorii-de-vede/Est": {
+    "lat": "44.1107937",
+    "lon": "25.0047460"
+  },
+  "satu-mare/Centru": {
+    "lat": "47.6841188",
+    "lon": "22.4663326"
+  },
+  "satu-mare/Micro 17": {
+    "lat": "47.7790979",
+    "lon": "22.8920126"
+  },
+  "satu-mare/Micro 16": {
+    "lat": "47.7860937",
+    "lon": "22.8597104"
+  },
+  "satu-mare/Carpati": {
+    "lat": "47.7696697",
+    "lon": "22.8864255"
+  },
+  "satu-mare/Soarelui": {
+    "lat": "47.7812844",
+    "lon": "22.8844109"
+  },
+  "satu-mare/Horea": {
+    "lat": "47.6847017",
+    "lon": "22.2357399"
+  },
+  "sibiu/Centru": {
+    "lat": "45.7144656",
+    "lon": "24.1520457"
+  },
+  "sibiu/Strand": {
+    "lat": "45.7876521",
+    "lon": "24.1368335"
+  },
+  "sibiu/Vasile Aaron": {
+    "lat": "45.7850328",
+    "lon": "24.1719878"
+  },
+  "sibiu/Hipodrom": {
+    "lat": "45.7835856",
+    "lon": "24.1550756"
+  },
+  "sibiu/Turnisor": {
+    "lat": "45.7912398",
+    "lon": "24.1186515"
+  },
+  "sibiu/Terezian": {
+    "lat": "45.8063750",
+    "lon": "24.1443458"
+  },
+  "sibiu/Lazaret": {
+    "lat": "45.5612010",
+    "lon": "24.2604607"
+  },
+  "sighetu-marmatiei/Centru": {
+    "lat": "47.9282367",
+    "lon": "23.8890465"
+  },
+  "sighetu-marmatiei/Valea Cufundoasa": {
+    "lat": "47.9181343",
+    "lon": "23.8967793"
+  },
+  "sighetu-marmatiei/Iapa": {
+    "lat": "47.9251306",
+    "lon": "23.8253872"
+  },
+  "sighetu-marmatiei/Sugau": {
+    "lat": "47.8816371",
+    "lon": "23.9158876"
+  },
+  "sighetu-marmatiei/Lazu Baciului": {
+    "lat": "47.9051306",
+    "lon": "23.9205217"
+  },
+  "slatina/Centru": {
+    "lat": "44.4321980",
+    "lon": "24.3476647"
+  },
+  "slatina/Progresul": {
+    "lat": "44.4266761",
+    "lon": "24.3649958"
+  },
+  "slatina/Steaua": {
+    "lat": "44.4212285",
+    "lon": "24.3849270"
+  },
+  "slatina/Clocociov": {
+    "lat": "44.4161926",
+    "lon": "24.3688532"
+  },
+  "slatina/Cireasov": {
+    "lat": "44.4546295",
+    "lon": "24.3737720"
+  },
+  "slobozia/Centru": {
+    "lat": "45.6059787",
+    "lon": "27.2113358"
+  },
+  "slobozia/Garii Noi": {
+    "lat": "44.5724632",
+    "lon": "27.3808579"
+  },
+  "slobozia/Mihai Viteazu": {
+    "lat": "44.5671755",
+    "lon": "27.3642217"
+  },
+  "slobozia/Sud": {
+    "lat": "45.6059787",
+    "lon": "27.2113358"
+  },
+  "slobozia/Vest": {
+    "lat": "45.0154418",
+    "lon": "23.2436171"
+  },
+  "suceava/Centru": {
+    "lat": "47.6453600",
+    "lon": "26.2587761"
+  },
+  "suceava/Burdujeni": {
+    "lat": "47.6722664",
+    "lon": "26.2796482"
+  },
+  "suceava/Obcini": {
+    "lat": "47.6373921",
+    "lon": "26.2320203"
+  },
+  "suceava/Itcani": {
+    "lat": "47.6783590",
+    "lon": "26.2380981"
+  },
+  "suceava/George Enescu": {
+    "lat": "47.6426034",
+    "lon": "26.2379695"
+  },
+  "suceava/Areni": {
+    "lat": "47.6402350",
+    "lon": "26.2469012"
+  },
+  "targoviste/Centru": {
+    "lat": "44.9286947",
+    "lon": "25.4605623"
+  },
+  "targoviste/Micro 6": {
+    "lat": "44.9286947",
+    "lon": "25.4605623"
+  },
+  "targoviste/Micro 9": {
+    "lat": "44.9286947",
+    "lon": "25.4605623"
+  },
+  "targoviste/Priseaca": {
+    "lat": "44.9237671",
+    "lon": "25.4030514"
+  },
+  "targoviste/Sagricom": {
+    "lat": "44.9002438",
+    "lon": "25.5101064"
+  },
+  "targu-jiu/Centru": {
+    "lat": "45.0412964",
+    "lon": "23.2730797"
+  },
+  "targu-jiu/9 Mai": {
+    "lat": "45.0235390",
+    "lon": "23.2705088"
+  },
+  "targu-jiu/Debarcader": {
+    "lat": "45.0526486",
+    "lon": "23.2762025"
+  },
+  "targu-jiu/Grivitei": {
+    "lat": "45.0426418",
+    "lon": "23.2773776"
+  },
+  "targu-jiu/Barsesti": {
+    "lat": "45.0534912",
+    "lon": "23.2354318"
+  },
+  "targu-mures/Centru": {
+    "lat": "46.5194568",
+    "lon": "24.5160058"
+  },
+  "targu-mures/Dambul Pietros": {
+    "lat": "46.5309302",
+    "lon": "24.5566455"
+  },
+  "targu-mures/Unirii": {
+    "lat": "46.5630928",
+    "lon": "24.5474991"
+  },
+  "targu-mures/Tudor": {
+    "lat": "46.5351287",
+    "lon": "24.5834007"
+  },
+  "targu-mures/Aleea Carpati": {
+    "lat": "46.5538638",
+    "lon": "24.5585753"
+  },
+  "targu-mures/Cornisa": {
+    "lat": "46.5516523",
+    "lon": "24.5753378"
+  },
+  "targu-neamt/Centru": {
+    "lat": "47.2066122",
+    "lon": "26.3655554"
+  },
+  "targu-neamt/Blebea": {
+    "lat": "47.1963933",
+    "lon": "26.4084836"
+  },
+  "targu-neamt/Condreni": {
+    "lat": "47.2066122",
+    "lon": "26.3655554"
+  },
+  "targu-neamt/Humulesti": {
+    "lat": "47.1987383",
+    "lon": "26.3505809"
+  },
+  "targu-neamt/Ozana": {
+    "lat": "47.2057310",
+    "lon": "26.3765991"
+  },
+  "targu-secuiesc/Centru": {
+    "lat": "45.9983223",
+    "lon": "26.1434104"
+  },
+  "targu-secuiesc/Fabricii": {
+    "lat": "45.9983223",
+    "lon": "26.1434104"
+  },
+  "targu-secuiesc/Kanta": {
+    "lat": "46.0098675",
+    "lon": "26.1391911"
+  },
+  "targu-secuiesc/Molnar Janos": {
+    "lat": "45.9983223",
+    "lon": "26.1434104"
+  },
+  "targu-secuiesc/Turia": {
+    "lat": "46.0508075",
+    "lon": "26.0450577"
+  },
+  "timisoara/Centru": {
+    "lat": "45.7369431",
+    "lon": "21.2433851"
+  },
+  "timisoara/Soarelui": {
+    "lat": "45.7341079",
+    "lon": "21.2487273"
+  },
+  "timisoara/Girocului": {
+    "lat": "45.7318471",
+    "lon": "21.2318790"
+  },
+  "timisoara/Circumvalatiunii": {
+    "lat": "45.7593451",
+    "lon": "21.2140323"
+  },
+  "timisoara/Lipovei": {
+    "lat": "45.7750816",
+    "lon": "21.2394418"
+  },
+  "timisoara/Aradului": {
+    "lat": "45.7735674",
+    "lon": "21.2237505"
+  },
+  "timisoara/Mehala": {
+    "lat": "45.7642474",
+    "lon": "21.2040894"
+  },
+  "timisoara/Iosefin": {
+    "lat": "45.7409780",
+    "lon": "21.2058031"
+  },
+  "turda/Centru": {
+    "lat": "46.5726616",
+    "lon": "23.7856956"
+  },
+  "turda/Oprisani": {
+    "lat": "46.5577716",
+    "lon": "23.7996030"
+  },
+  "turda/Micro 3": {
+    "lat": "46.5589466",
+    "lon": "23.8134937"
+  },
+  "turda/Poiana": {
+    "lat": "46.5591780",
+    "lon": "23.8315359"
+  },
+  "turda/Turda Noua": {
+    "lat": "46.5799293",
+    "lon": "23.7718016"
+  },
+  "turnu-magurele/Centru": {
+    "lat": "43.7564677",
+    "lon": "24.8752826"
+  },
+  "turnu-magurele/Odaia": {
+    "lat": "43.7564677",
+    "lon": "24.8752826"
+  },
+  "turnu-magurele/Magurele": {
+    "lat": "43.7564677",
+    "lon": "24.8752826"
+  },
+  "turnu-magurele/Combinat": {
+    "lat": "43.7564677",
+    "lon": "24.8752826"
+  },
+  "urziceni/Centru": {
+    "lat": "44.7127232",
+    "lon": "26.6560595"
+  },
+  "urziceni/Tineretului": {
+    "lat": "44.7127232",
+    "lon": "26.6560595"
+  },
+  "urziceni/Sud": {
+    "lat": "44.7127232",
+    "lon": "26.6560595"
+  },
+  "urziceni/Vest": {
+    "lat": "44.7127232",
+    "lon": "26.6560595"
+  },
+  "urziceni/Est": {
+    "lat": "44.7127232",
+    "lon": "26.6560595"
+  },
+  "vaslui/Centru": {
+    "lat": "46.2260971",
+    "lon": "27.6691038"
+  },
+  "vaslui/Moara Grecilor": {
+    "lat": "46.6720765",
+    "lon": "27.7454139"
+  },
+  "vaslui/Gara": {
+    "lat": "46.6748547",
+    "lon": "28.0448682"
+  },
+  "vaslui/Rediu": {
+    "lat": "46.4740917",
+    "lon": "27.8741347"
+  },
+  "vaslui/Balteni": {
+    "lat": "46.6749392",
+    "lon": "27.6239884"
+  },
+  "zalau/Centru": {
+    "lat": "47.1827227",
+    "lon": "23.0557496"
+  },
+  "zalau/Dumbrava Nord": {
+    "lat": "47.2006296",
+    "lon": "23.0483609"
+  },
+  "zalau/Bradet": {
+    "lat": "47.1741455",
+    "lon": "23.0666362"
+  },
+  "zalau/Porolissum": {
+    "lat": "47.1893716",
+    "lon": "23.0653205"
+  },
+  "zalau/Meses": {
+    "lat": "47.1694867",
+    "lon": "23.1085745"
+  },
+  "zarnesti/Centru": {
+    "lat": "45.5669719",
+    "lon": "25.2912753"
+  },
+  "zarnesti/Tohanu Vechi": {
+    "lat": "45.5751231",
+    "lon": "25.3655460"
+  },
+  "zarnesti/Tohanu Nou": {
+    "lat": "45.5524283",
+    "lon": "25.3845258"
+  },
+  "zarnesti/Prund": {
+    "lat": "45.5669719",
+    "lon": "25.2912753"
+  },
+  "zarnesti/Balaceanca": {
+    "lat": "45.5669719",
+    "lon": "25.2912753"
+  }
+}
