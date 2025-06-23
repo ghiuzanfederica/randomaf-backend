@@ -6,6 +6,7 @@ const activeSessions = new Map();
 
 function handleSignIn(req, res) {
     const pool = require('../config/database');
+    res.setHeader('Set-Cookie', `sesiune=${token}; Path=/; HttpOnly; SameSite=None; Secure`);
     
     let body = '';
     req.on('data', chunk => {
